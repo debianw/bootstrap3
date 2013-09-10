@@ -2003,4 +2003,4 @@ if (!jQuery) { throw new Error("Bootstrap requires jQuery") }
 
 }(jQuery);
 
-module.exports = $;
+module.exports = jQuery;
