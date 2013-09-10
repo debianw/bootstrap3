@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap3",
+  "repo": "debianw/bootstrap3",
+  "description": "Bootstrap 3.0 dist",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/jquery": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "css/bootstrap.css",
+    "css/bootstrap-theme.css"
+  ],
+  "fonts": [
+    "fonts/glyphicons-halflings-regular.eot",
+    "fonts/glyphicons-halflings-regular.svg",
+    "fonts/glyphicons-halflings-regular.ttf",
+    "fonts/glyphicons-halflings-regular.woff"
+  ]
+}
