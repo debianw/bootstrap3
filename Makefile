@@ -1,7 +1,7 @@
 STYLES = $(css/*.css)
 
 build: components index.js $(STYLES)
-	@component build --dev
+	@component build
 
 components: component.json
 	@component install --dev
